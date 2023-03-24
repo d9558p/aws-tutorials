@@ -23,9 +23,9 @@ wget https://dlcdn.apache.org/tomcat/tomcat-8/v8.5.87/bin/apache-tomcat-8.5.87.t
 
 sudo mkdir /opt
 
-tar xf apache-tomcat-8.5.84.tar.gz
+tar xf apache-tomcat-8.5.87.tar.gz
 
-sudo mv apache-tomcat-8.5.84 tomcat
+sudo mv apache-tomcat-8.5.87 tomcat
 
 sudo mv tomcat /opt
 
